@@ -1,0 +1,4 @@
+﻿  Veri-Yapilari-Son.cpp
+C:\Users\Beyza  Nur BAKİ\OneDrive\Masaüstü\Veri-Yapilari\Veri-Yapilari-Proje\Veri-Yapilari-Son\Veri-Yapilari-Son.cpp(41,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Beyza  Nur BAKİ\OneDrive\Masaüstü\Veri-Yapilari\Veri-Yapilari-Proje\Veri-Yapilari-Son\Veri-Yapilari-Son.cpp(89,20): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  Veri-Yapilari-Son.vcxproj -> C:\Users\Beyza  Nur BAKİ\OneDrive\Masaüstü\Veri-Yapilari\Veri-Yapilari-Proje\x64\Debug\Veri-Yapilari-Son.exe
